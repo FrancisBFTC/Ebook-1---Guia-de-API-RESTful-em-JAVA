@@ -1,0 +1,8 @@
+Como instalar o PostgreSQL:
+https://www.youtube.com/watch?v=L_2l8XTCPAE
+
+Download de outras versões do Java:
+https://www.oracle.com/java/technologies/downloads/?er=221886
+
+Spring JPA Documentation:
+https://docs.spring.io/spring-data/jpa/reference/jpa/getting-started.html

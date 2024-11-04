@@ -1,0 +1,17 @@
+Java Download:
+https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
+
+Outras versões do Java:
+https://www.oracle.com/java/technologies/downloads/?er=221886
+
+PostgreSQL Download:
+https://www.postgresql.org
+
+PostgreSQL Link Direto:
+https://www.postgresql.org/download/
+
+Dbeaver Community:
+https://dbeaver.io/download/
+
+VSCode Download:
+https://code.visualstudio.com
