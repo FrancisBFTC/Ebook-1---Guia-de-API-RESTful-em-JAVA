@@ -1,0 +1,9 @@
+BROADCOM INC. Spring Data JPA – Getting Started. Disponível em: <https://docs.spring.io/spring-data/jpa/reference/jpa/getting-started.html>. Acesso em: 31 Nov. 2024.
+
+ORACLE. Java Documentation. Disponível em: <https://docs.oracle.com/en/java/>. Acesso em: 31. Nov. 2024.
+
+HASHTAG PROGRAMAÇÃO. Instalando o PostgreSQL e Criando o Primeiro Banco de Dados. Disponível em: <https://www.youtube.com/watch?v=L_2l8XTCPAE>. Acesso em: 31. Nov. 2024.
+
+BROADCOM INC. Spring Framework Documentation. Disponível em: <https://docs.spring.io/spring-framework/reference/index.html>. Acesso em: 31. Nov. 2024.
+
+DIGITAL INNOVATION ONE. Deal – Spring Boot e Angular (17+). Disponível em: < https://web.dio.me/track/coding-the-future-spring-boot-angular-17>. Acesso em: 20. Set. 2024.
