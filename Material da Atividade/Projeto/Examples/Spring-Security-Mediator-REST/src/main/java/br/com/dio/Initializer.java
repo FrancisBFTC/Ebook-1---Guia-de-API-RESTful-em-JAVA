@@ -32,9 +32,9 @@ public class Initializer {
 
 		User user = new User();
 		user.setAtivo(true);
-		user.setEmail("wenderson.anjos@goias.gov.br");
+		user.setEmail("");
 		user.setNome("Wenderson Anjos");
-		user.setSenha(new BCryptPasswordEncoder().encode("BruteForce001"));
+		user.setSenha(new BCryptPasswordEncoder().encode(""));
 		user.setUsername("wendersonanjos");
 		user.setRoles(Arrays.asList(roleAdmin));
 
